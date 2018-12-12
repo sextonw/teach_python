@@ -8,7 +8,7 @@ Click download Python version 3.7
 
 Run the executable
 
-Follow the setup wizard. I recommend keeping all the defaults settings.
+Follow the setup wizard. I recommend keeping all the default settings. Install will take about 10-15 mins.
 
 Skip visual basic code unless you really want it. Uncheck learn more/learn how and finish.
 
