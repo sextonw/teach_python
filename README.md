@@ -23,11 +23,11 @@ If you want to ignore git stuff and just get started with a workbook...
 
 Click the green clone or download button, click download zip on the drop down.
 
-Unzip contents into a destination of your choice. I recommend Desktop or Documents (eg). This avoids the need to modify jupyter configurations.
+Unzip contents into a destination of your choice. I recommend Desktop or Documents. This avoids the need to modify jupyter configurations.
 
 Open Jupyter Notebook in your web browser. You should see a folder directory. Navigate to the unzipped folder. If you can't find it, move the folder to a recognizable location based on what you see in Juypter. Or click "upload" and upload the files.
 
-Click on a workbook to open in. eg basics.ipynb
+Click on a workbook to open it. eg basics.ipynb
 
 # Running cells.
 
