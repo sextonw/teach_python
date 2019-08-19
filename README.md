@@ -1,3 +1,7 @@
+# A simple python tutorial
+
+This is an ultra crash course in the basics of python. If there's a topic you'd like to see added or you find any mistakes, feel free to open an issue. I'll update as time permits.
+
 # Setup instructions for windows
 
 Go to https://www.anaconda.com/download/
@@ -34,3 +38,4 @@ Click on a workbook to open it. eg basics.ipynb
 The individual boxes of code are called cells.
 
 ctrl + enter is the keyboard shortcut to run the code in a cell.
+
